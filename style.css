@@ -1,0 +1,36 @@
+h1{
+  justify-content:center;
+  display: flex;
+}
+
+td{
+	border: 1px dashed;
+    border-style: dotted;
+    padding: 2px 6px;
+}
+
+table{
+	border: 1px dashed;
+    border-style: dotted;
+}
+.div{
+	justify-content:center;
+	display: flex;
+}
+input{
+	box-shadow: 0 0 2px;
+    border-block-end-style:initial;
+	margin:10px 0;
+}
+select{
+    box-shadow: 0 0 5px;
+    border-block-end-style: initial;
+}
+.none{
+	resize:none;
+	border-top:3px solid #8d8d8d;
+	border-left:3px solid #8d8d8d;
+}
+textarea{
+	margin:10px 0;
+}
